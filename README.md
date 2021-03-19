@@ -1,3 +1,3 @@
 # INeuron-Assignments
 
-This is an assignment and revision
+This is an assignment and revision repository.
