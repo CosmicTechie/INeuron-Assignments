@@ -1,2 +1,2 @@
 # INeuron-Assignments
-Assignments submission.
+Assignments Submission.
