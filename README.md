@@ -1,2 +1,2 @@
 # INeuron-Assignments
-Assignments Submission for
+Assignments Submission for FFull Stack Data Science course.
